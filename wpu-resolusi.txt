@@ -3,3 +3,4 @@ WPU RESOLUSI
 - Membuat Web Desain 
 - Membuat kumpulan data
 - Membuat backend
+- Menambahkan css
