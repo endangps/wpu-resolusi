@@ -2,3 +2,4 @@ WPU RESOLUSI
 - Konsisten untuk membuat konten 2X seminggu
 - Membuat Web Desain 
 - Membuat kumpulan data
+- Membuat backend
